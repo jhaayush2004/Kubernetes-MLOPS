@@ -1,2 +1,3 @@
 # Kubernetes-MLOPS
 Fundamentals for Distributed Computing, Microservices and Kubernetes.....
+VISIT - [click](https://docs.google.com/document/d/1iUCK06895yOGELGyTAdYr9SRYbzywLPY/edit?usp=sharing&ouid=101578109680909709365&rtpof=true&sd=true)
